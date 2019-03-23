@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Settings>
+	<LogsSettings>
+		<RootPath>D:\Tools\MigrationRoot\ProfileRedirection\</RootPath>
+	</LogsSettings>
+	<ConfigurationSettings>
+		<serviceapplication>User Profile Service Application</serviceapplication>
+		<MySiteHostURL>Enter MySite On-Premise URL</MySiteHostURL>
+		<MySiteSPOURL>Enter SPO MySite URL</MySiteSPOURL>
+		<AudienceDescription>To redirect profiles from MySite to Delve and OneDrive (Hybrid user profile solution)</AudienceDescription>
+		<AudienceName>MySiteRedirectionToSPO</AudienceName>
+	</ConfigurationSettings>
+</Settings>
